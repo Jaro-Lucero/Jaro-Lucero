@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Jaro Oliver Lucero 👋
 
-<!--
-**Jaro-Lucero/Jaro-Lucero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Technology Student at Mapúa University
 
-Here are some ideas to get you started:
+🔐 Aspiring Cybersecurity Analyst with interests in:
+- Security Operations Center (SOC)
+- Threat Detection & Incident Response
+- Vulnerability Assessment
+- Governance, Risk, and Compliance (GRC)
+- Cloud Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+- IBM Cybersecurity Analyst
+- Google Cybersecurity Specialization
+
+## Technical Skills
+
+### Security
+- SIEM Analysis
+- Log Investigation
+- Incident Response
+- Vulnerability Assessment
+- Risk Management
+
+### Tools
+- Wazuh
+- Splunk
+- Windows
+- Ubuntu
+
+### Programming
+- HTML
+- Bash
+- C#
+- SQL
+
+## Current Projects
+
+### VR-Based Nursing Simulation
+Capstone project utilizing Unity and Meta Quest 3 to simulate labor and delivery procedures for nursing students.
+
+### Security Lab Portfolio
+Collection of cybersecurity labs covering:
+- Vulnerability Assessment
+- Log Analysis
+- Threat Detection
+- Incident Response
+
+## Connect With Me
+
+LinkedIn: www.linkedin.com/in/jaro-lucero-973a21347
+Email: oliverlucero19@gmail.com
